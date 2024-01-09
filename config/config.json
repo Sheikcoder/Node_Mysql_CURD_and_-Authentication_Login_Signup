@@ -2,7 +2,7 @@
   "development": {
     "username": "root",
     "password": null,
-    "database": "dana",
+    "database": "sheikdb",
     "host": "127.0.0.1",
     "dialect": "mysql"
   },
